@@ -1,0 +1,7 @@
+setup.py
+azure_functions_stub_extension/__init__.py
+azure_functions_stub_extension.egg-info/PKG-INFO
+azure_functions_stub_extension.egg-info/SOURCES.txt
+azure_functions_stub_extension.egg-info/dependency_links.txt
+azure_functions_stub_extension.egg-info/requires.txt
+azure_functions_stub_extension.egg-info/top_level.txt
