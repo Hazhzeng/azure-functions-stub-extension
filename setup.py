@@ -8,8 +8,8 @@ setup(
     version='1.0.0',
     description='Python Language Extension Stub',
     author="Roger Zeng",
-    author_email="hazeng@microsoft.com",
-    keywords="azure azurefunctions python",
+    author_email="abcde@fghijk.com",
+    keywords="azure azurefunctions python extension",
     url="https://github.com/Hazhzeng/azure-functions-stub-extension",
     classifiers=[
         'Development Status :: 5 - Production/Stable',
